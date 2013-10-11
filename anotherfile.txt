@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+New content
+=======
+New content into new branch
+>>>>>>> new-branch
