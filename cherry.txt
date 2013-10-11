@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Text
-=======
-Texto en el branch1
->>>>>>> branch1
